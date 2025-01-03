@@ -1,0 +1,59 @@
+[
+  {
+    "doc_id": "PLANT_02_P-3410B",
+    "original_uuid": "4451aa54-28c5-3959-a3bb-475d0afd9232",
+    "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\P-3410B\\PLANT_02_P-3410B_corpus.txt",
+    "chunks": [
+      {
+        "chunk_id": "PLANT_02_P-3410B_chunk_0",
+        "original_index": 0,
+        "content": "The Produce Water Injection Pump B (Tag: P-3410B) in the Everflow Utility Plant is currently STOP. The machine consists of 2 components and 7 models."
+      },
+      {
+        "chunk_id": "PLANT_02_P-3410B_chunk_1",
+        "original_index": 1,
+        "content": "The Produce Water Injection Pump B (Tag: P-3410B) in the Everflow Utility Plant has a Performance Health of 53.68% and Condition Health of 38.67%. The machine is currently in a Critical status. The Performance changes are 0.0% daily, 0.0% weekly, and 0.0% monthly. The Condition changes are 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_P-3410B_chunk_2",
+        "original_index": 2,
+        "content": "The Produce Water Injection Pump B (Tag: P-3410B) in the Everflow Utility Plant consists of the following components: MOTOR, PUMP"
+      },
+      {
+        "chunk_id": "PLANT_02_P-3410B_chunk_3",
+        "original_index": 3,
+        "content": "The MOTOR component of Produce Water Injection Pump B (Tag: P-3410B) in the Everflow Utility Plant is monitored by the model DRIVE_VOLT( Average Line -Netural AC Voltage), which is a CONDITION model of MACHINE_LEARNING class. This model has a health score of 0.0%, with health changes recorded at 0% daily, 0% weekly, and 0% monthly. The residual changes are 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_P-3410B_chunk_4",
+        "original_index": 4,
+        "content": "The MOTOR component of Produce Water Injection Pump B (Tag: P-3410B) in the Everflow Utility Plant is monitored by the model DE_VIB(Motor vibration DE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0% daily, 0% weekly, and 0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_P-3410B_chunk_5",
+        "original_index": 5,
+        "content": "The MOTOR component of Produce Water Injection Pump B (Tag: P-3410B) in the Everflow Utility Plant is monitored by the model NDE_VIB(Motor vibration NDE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0% daily, 0% weekly, and 0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_P-3410B_chunk_6",
+        "original_index": 6,
+        "content": "The PUMP component of Produce Water Injection Pump B (Tag: P-3410B) in the Everflow Utility Plant is monitored by the model OIL_PRESS(Oil pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 0.0%, with health changes recorded at 0% daily, 0% weekly, and 0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_P-3410B_chunk_7",
+        "original_index": 7,
+        "content": "The PUMP component of Produce Water Injection Pump B (Tag: P-3410B) in the Everflow Utility Plant is monitored by the model XDTC_TEMP VS. XDTC_VIB, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 21.36%, with health changes recorded at 0% daily, 0% weekly, and 0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_P-3410B_chunk_8",
+        "original_index": 8,
+        "content": "The PUMP component of Produce Water Injection Pump B (Tag: P-3410B) in the Everflow Utility Plant is monitored by the model Speed (Frequency x 60), which is a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 100.0%, with health changes recorded at 0% daily, 0% weekly, and 0% monthly. The residual changes are 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_P-3410B_chunk_9",
+        "original_index": 9,
+        "content": "The PUMP component of Produce Water Injection Pump B (Tag: P-3410B) in the Everflow Utility Plant is monitored by the model Pump s Head (Dis Press - Suc. Press)(Pump head A), which is a PERFORMANCE model of INDIVIDUAL class. This model has a health score of 7.35%, with health changes recorded at 0% daily, 0% weekly, and 0% monthly."
+      }
+    ]
+  }
+]
