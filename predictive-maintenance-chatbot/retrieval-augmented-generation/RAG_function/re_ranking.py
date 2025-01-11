@@ -5,7 +5,7 @@ from tqdm import tqdm
 
 # ตั้งค่าตัวแปรสภาพแวดล้อม COHERE_API_KEY
 os.environ["COHERE_API_KEY"] = (
-    "cSXFt2t90CiczNoUERMMTljkhKrWKHzW9QEv6Y5A"
+    ""
 )
 # เริ่มต้นไคลเอนต์ Cohere ด้วยคีย์ API
 co = cohere.ClientV2(api_key=os.getenv("COHERE_API_KEY"))

@@ -1,107 +1,107 @@
 [
     {
-        "page_content": "The PUMP component of the Produce Water Injection Pump C (Tag: P-3410C) is monitored by the Pump's Head (Dis Press - Suc. Press)(Pump head A) performance model, which indicates a 100.0% health score with consistent 0.12% daily, weekly, and monthly changes. This suggests the pump is operating within normal parameters and does not require immediate maintenance, though ongoing monitoring of the pump head is recommended to ensure continued reliable performance.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model Pump s Head (Dis Press - Suc. Press)(Pump head A), which is a PERFORMANCE model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.12% daily, 0.12% weekly, and 0.12% monthly.",
+        "page_content": "The PUMP component of the Produce Water Injection Pump C (Tag: PMP_WI_03) is monitored by the Pump's Head (Dis Press - Suc. Press)(Pump head A) performance model, which indicates a 100.0% health score with consistent 0.12% daily, weekly, and monthly changes. This suggests the pump is operating within normal parameters and does not require immediate maintenance attention.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model Pump s Head (Dis Press - Suc. Press)(Pump head A), which is a PERFORMANCE model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.12% daily, 0.12% weekly, and 0.12% monthly.",
         "rrf_score": 0.032786886,
         "rank": 1,
         "metadata": {
-            "doc_id": "PLANT_02_P-3410C",
-            "original_uuid": "c5814c84-0de5-3803-bb45-0d0846c43eac",
-            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\P-3410C\\PLANT_02_P-3410C_corpus.txt",
-            "chunk_id": "PLANT_02_P-3410C_chunk_9",
-            "chunk_uuid": "bb1b0e1b-428c-51db-8b44-fbf712b8ffc8",
+            "doc_id": "PLANT_02_PMP_WI_03",
+            "original_uuid": "da2c5143-f007-375f-8a37-8a9951a199bd",
+            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\PMP_WI_03\\PLANT_02_PMP_WI_03_corpus.txt",
+            "chunk_id": "PLANT_02_PMP_WI_03_chunk_9",
+            "chunk_uuid": "29cde268-4e72-5888-854d-de7d55fa9add",
             "original_index": 9,
-            "content": "The PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model Pump s Head (Dis Press - Suc. Press)(Pump head A), which is a PERFORMANCE model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.12% daily, 0.12% weekly, and 0.12% monthly.",
-            "contextualized_content": "The PUMP component of the Produce Water Injection Pump C (Tag: P-3410C) is monitored by the Pump's Head (Dis Press - Suc. Press)(Pump head A) performance model, which indicates a 100.0% health score with consistent 0.12% daily, weekly, and monthly changes. This suggests the pump is operating within normal parameters and does not require immediate maintenance, though ongoing monitoring of the pump head is recommended to ensure continued reliable performance.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model Pump s Head (Dis Press - Suc. Press)(Pump head A), which is a PERFORMANCE model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.12% daily, 0.12% weekly, and 0.12% monthly."
+            "content": "The PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model Pump s Head (Dis Press - Suc. Press)(Pump head A), which is a PERFORMANCE model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.12% daily, 0.12% weekly, and 0.12% monthly.",
+            "contextualized_content": "The PUMP component of the Produce Water Injection Pump C (Tag: PMP_WI_03) is monitored by the Pump's Head (Dis Press - Suc. Press)(Pump head A) performance model, which indicates a 100.0% health score with consistent 0.12% daily, weekly, and monthly changes. This suggests the pump is operating within normal parameters and does not require immediate maintenance attention.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model Pump s Head (Dis Press - Suc. Press)(Pump head A), which is a PERFORMANCE model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.12% daily, 0.12% weekly, and 0.12% monthly."
         }
     },
     {
-        "page_content": "The PUMP component of the Produce Water Injection Pump C (Tag: P-3410C) is monitored by the OIL_PRESS (Oil pressure) model, which indicates a consistent 100.0% health score with no daily, weekly, or monthly changes. This suggests the oil pressure of the pump component is operating within normal parameters, contributing to the overall 100.0% Condition Health of the machine.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model OIL_PRESS(Oil pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "page_content": "The PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) is monitored by the OIL_PRESS (Oil pressure) model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the oil pressure for the PUMP component is stable and within normal operating parameters, contributing to the overall 100.0% Condition Health of the Produce Water Injection Pump C.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model OIL_PRESS(Oil pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
         "rrf_score": 0.032258064,
         "rank": 2,
         "metadata": {
-            "doc_id": "PLANT_02_P-3410C",
-            "original_uuid": "c5814c84-0de5-3803-bb45-0d0846c43eac",
-            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\P-3410C\\PLANT_02_P-3410C_corpus.txt",
-            "chunk_id": "PLANT_02_P-3410C_chunk_6",
-            "chunk_uuid": "c8fe51e5-232d-5afa-8722-430a2b6e9e0c",
+            "doc_id": "PLANT_02_PMP_WI_03",
+            "original_uuid": "da2c5143-f007-375f-8a37-8a9951a199bd",
+            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\PMP_WI_03\\PLANT_02_PMP_WI_03_corpus.txt",
+            "chunk_id": "PLANT_02_PMP_WI_03_chunk_6",
+            "chunk_uuid": "d73df75b-0258-58e1-ab3b-f35fd0a1a4ea",
             "original_index": 6,
-            "content": "The PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model OIL_PRESS(Oil pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
-            "contextualized_content": "The PUMP component of the Produce Water Injection Pump C (Tag: P-3410C) is monitored by the OIL_PRESS (Oil pressure) model, which indicates a consistent 100.0% health score with no daily, weekly, or monthly changes. This suggests the oil pressure of the pump component is operating within normal parameters, contributing to the overall 100.0% Condition Health of the machine.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model OIL_PRESS(Oil pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+            "content": "The PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model OIL_PRESS(Oil pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+            "contextualized_content": "The PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) is monitored by the OIL_PRESS (Oil pressure) model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the oil pressure for the PUMP component is stable and within normal operating parameters, contributing to the overall 100.0% Condition Health of the Produce Water Injection Pump C.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model OIL_PRESS(Oil pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
         }
     },
     {
-        "page_content": "The MOTOR component of the Produce Water Injection Pump C (Tag: P-3410C) is monitored by the DE_VIB (Motor vibration DE) condition model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the motor is operating within normal parameters and does not require immediate maintenance attention.\n\nThe MOTOR component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model DE_VIB(Motor vibration DE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
-        "rrf_score": 0.031257631,
+        "page_content": "The XDTC_TEMP VS. XDTC_VIB model, a CONDITION model of CLASSIFICATION class, monitors the PUMP component of the Produce Water Injection Pump C (Tag: PMP_WI_03) and reports a 100.0% health score with negligible weekly (0.04%) and monthly (0.02%) health changes. This indicates the PUMP component is operating within normal parameters and does not require immediate maintenance attention.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model XDTC_TEMP VS. XDTC_VIB, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.04% weekly, and 0.02% monthly.",
+        "rrf_score": 0.03125,
         "rank": 3,
         "metadata": {
-            "doc_id": "PLANT_02_P-3410C",
-            "original_uuid": "c5814c84-0de5-3803-bb45-0d0846c43eac",
-            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\P-3410C\\PLANT_02_P-3410C_corpus.txt",
-            "chunk_id": "PLANT_02_P-3410C_chunk_4",
-            "chunk_uuid": "6d52d4b2-403c-5b20-a2e7-9e833014f56a",
-            "original_index": 4,
-            "content": "The MOTOR component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model DE_VIB(Motor vibration DE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
-            "contextualized_content": "The MOTOR component of the Produce Water Injection Pump C (Tag: P-3410C) is monitored by the DE_VIB (Motor vibration DE) condition model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the motor is operating within normal parameters and does not require immediate maintenance attention.\n\nThe MOTOR component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model DE_VIB(Motor vibration DE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+            "doc_id": "PLANT_02_PMP_WI_03",
+            "original_uuid": "da2c5143-f007-375f-8a37-8a9951a199bd",
+            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\PMP_WI_03\\PLANT_02_PMP_WI_03_corpus.txt",
+            "chunk_id": "PLANT_02_PMP_WI_03_chunk_7",
+            "chunk_uuid": "f4321a70-e128-5bf9-89fc-344b8d1f9ba0",
+            "original_index": 7,
+            "content": "The PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model XDTC_TEMP VS. XDTC_VIB, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.04% weekly, and 0.02% monthly.",
+            "contextualized_content": "The XDTC_TEMP VS. XDTC_VIB model, a CONDITION model of CLASSIFICATION class, monitors the PUMP component of the Produce Water Injection Pump C (Tag: PMP_WI_03) and reports a 100.0% health score with negligible weekly (0.04%) and monthly (0.02%) health changes. This indicates the PUMP component is operating within normal parameters and does not require immediate maintenance attention.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model XDTC_TEMP VS. XDTC_VIB, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.04% weekly, and 0.02% monthly."
         }
     },
     {
-        "page_content": "The XDTC_TEMP VS. XDTC_VIB model, a CONDITION model of CLASSIFICATION class, monitors the PUMP component of the Produce Water Injection Pump C (Tag: P-3410C) and reports a 100.0% health score with negligible weekly (0.04%) and monthly (0.02%) health changes. This indicates the PUMP component is operating within normal parameters and does not require immediate maintenance attention.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model XDTC_TEMP VS. XDTC_VIB, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.04% weekly, and 0.02% monthly.",
-        "rrf_score": 0.031257631,
+        "page_content": "The MOTOR component of the Produce Water Injection Pump C (Tag: PMP_WI_03) is monitored by the DE_VIB (Motor vibration DE) model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the motor's vibration levels are stable and within normal operating parameters, indicating the MOTOR component is functioning properly and not exhibiting any concerning health indicators that would impact overall system performance.\n\nThe MOTOR component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model DE_VIB(Motor vibration DE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "rrf_score": 0.030798389,
         "rank": 4,
         "metadata": {
-            "doc_id": "PLANT_02_P-3410C",
-            "original_uuid": "c5814c84-0de5-3803-bb45-0d0846c43eac",
-            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\P-3410C\\PLANT_02_P-3410C_corpus.txt",
-            "chunk_id": "PLANT_02_P-3410C_chunk_7",
-            "chunk_uuid": "a7f47ad5-b71e-538d-882c-2117c8b6058f",
-            "original_index": 7,
-            "content": "The PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model XDTC_TEMP VS. XDTC_VIB, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.04% weekly, and 0.02% monthly.",
-            "contextualized_content": "The XDTC_TEMP VS. XDTC_VIB model, a CONDITION model of CLASSIFICATION class, monitors the PUMP component of the Produce Water Injection Pump C (Tag: P-3410C) and reports a 100.0% health score with negligible weekly (0.04%) and monthly (0.02%) health changes. This indicates the PUMP component is operating within normal parameters and does not require immediate maintenance attention.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model XDTC_TEMP VS. XDTC_VIB, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.04% weekly, and 0.02% monthly."
+            "doc_id": "PLANT_02_PMP_WI_03",
+            "original_uuid": "da2c5143-f007-375f-8a37-8a9951a199bd",
+            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\PMP_WI_03\\PLANT_02_PMP_WI_03_corpus.txt",
+            "chunk_id": "PLANT_02_PMP_WI_03_chunk_4",
+            "chunk_uuid": "3f2a95e5-0990-59de-932c-a32661b8f138",
+            "original_index": 4,
+            "content": "The MOTOR component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model DE_VIB(Motor vibration DE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+            "contextualized_content": "The MOTOR component of the Produce Water Injection Pump C (Tag: PMP_WI_03) is monitored by the DE_VIB (Motor vibration DE) model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the motor's vibration levels are stable and within normal operating parameters, indicating the MOTOR component is functioning properly and not exhibiting any concerning health indicators that would impact overall system performance.\n\nThe MOTOR component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model DE_VIB(Motor vibration DE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
         }
     },
     {
-        "page_content": "The MOTOR component of the Produce Water Injection Pump C (Tag: P-3410C) is monitored by the NDE_VIB (Motor vibration NDE) condition model, which indicates a consistent 100.0% health score with minimal 0.15% daily, weekly, and monthly changes. This suggests the motor's non-drive end vibration levels are stable and within acceptable limits, contributing to the overall 100.0% performance and condition health of the pump system.\n\nThe MOTOR component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model NDE_VIB(Motor vibration NDE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.15% daily, 0.15% weekly, and 0.15% monthly.",
-        "rrf_score": 0.03125,
+        "page_content": "The PUMP component of the Produce Water Injection Pump C (Tag: PMP_WI_03) is monitored by the Speed (Frequency x 60) model, a PERFORMANCE model of MACHINE_LEARNING class. This model indicates a 100.0% health score, with 0.6% weekly and 0.42% monthly health changes. However, the residual changes show significant degradation, with -19.57% weekly and -36.89% monthly, suggesting potential performance issues with the pump that require further investigation and maintenance.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model Speed (Frequency x 60), which is a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.6% weekly, and 0.42% monthly. The residual changes are -2.99% daily, -19.57% weekly, and -36.89% monthly.",
+        "rrf_score": 0.03076923,
         "rank": 5,
         "metadata": {
-            "doc_id": "PLANT_02_P-3410C",
-            "original_uuid": "c5814c84-0de5-3803-bb45-0d0846c43eac",
-            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\P-3410C\\PLANT_02_P-3410C_corpus.txt",
-            "chunk_id": "PLANT_02_P-3410C_chunk_5",
-            "chunk_uuid": "9e419398-974b-553f-9d2e-6aa2204fa30d",
-            "original_index": 5,
-            "content": "The MOTOR component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model NDE_VIB(Motor vibration NDE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.15% daily, 0.15% weekly, and 0.15% monthly.",
-            "contextualized_content": "The MOTOR component of the Produce Water Injection Pump C (Tag: P-3410C) is monitored by the NDE_VIB (Motor vibration NDE) condition model, which indicates a consistent 100.0% health score with minimal 0.15% daily, weekly, and monthly changes. This suggests the motor's non-drive end vibration levels are stable and within acceptable limits, contributing to the overall 100.0% performance and condition health of the pump system.\n\nThe MOTOR component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model NDE_VIB(Motor vibration NDE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.15% daily, 0.15% weekly, and 0.15% monthly."
+            "doc_id": "PLANT_02_PMP_WI_03",
+            "original_uuid": "da2c5143-f007-375f-8a37-8a9951a199bd",
+            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\PMP_WI_03\\PLANT_02_PMP_WI_03_corpus.txt",
+            "chunk_id": "PLANT_02_PMP_WI_03_chunk_8",
+            "chunk_uuid": "f2957a3d-dab4-5520-ac9e-dc538e04e6e9",
+            "original_index": 8,
+            "content": "The PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model Speed (Frequency x 60), which is a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.6% weekly, and 0.42% monthly. The residual changes are -2.99% daily, -19.57% weekly, and -36.89% monthly.",
+            "contextualized_content": "The PUMP component of the Produce Water Injection Pump C (Tag: PMP_WI_03) is monitored by the Speed (Frequency x 60) model, a PERFORMANCE model of MACHINE_LEARNING class. This model indicates a 100.0% health score, with 0.6% weekly and 0.42% monthly health changes. However, the residual changes show significant degradation, with -19.57% weekly and -36.89% monthly, suggesting potential performance issues with the pump that require further investigation and maintenance.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model Speed (Frequency x 60), which is a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.6% weekly, and 0.42% monthly. The residual changes are -2.99% daily, -19.57% weekly, and -36.89% monthly."
         }
     },
     {
-        "page_content": "The PUMP component of the Produce Water Injection Pump C (Tag: P-3410C) is monitored by the Speed (Frequency x 60) model, a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 100.0%, but exhibits significant performance degradation, with residual changes of -2.99% daily, -19.57% weekly, and -36.89% monthly. This indicates a potential issue with the pump's speed or efficiency that requires further investigation and maintenance.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model Speed (Frequency x 60), which is a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.6% weekly, and 0.42% monthly. The residual changes are -2.99% daily, -19.57% weekly, and -36.89% monthly.",
-        "rrf_score": 0.029644269,
+        "page_content": "The MOTOR component of the Produce Water Injection Pump C (Tag: PMP_WI_03) is monitored by the NDE_VIB (Motor vibration NDE) condition model, which indicates a consistent 100.0% health score with minimal 0.15% daily, weekly, and monthly changes. This suggests the motor's non-drive end vibration levels are stable and within normal operating parameters, contributing to the overall reliable performance of the Produce Water Injection Pump C.\n\nThe MOTOR component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model NDE_VIB(Motor vibration NDE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.15% daily, 0.15% weekly, and 0.15% monthly.",
+        "rrf_score": 0.030076888,
         "rank": 6,
         "metadata": {
-            "doc_id": "PLANT_02_P-3410C",
-            "original_uuid": "c5814c84-0de5-3803-bb45-0d0846c43eac",
-            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\P-3410C\\PLANT_02_P-3410C_corpus.txt",
-            "chunk_id": "PLANT_02_P-3410C_chunk_8",
-            "chunk_uuid": "791a95ae-8290-562f-88f5-7567ec7f7108",
-            "original_index": 8,
-            "content": "The PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model Speed (Frequency x 60), which is a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.6% weekly, and 0.42% monthly. The residual changes are -2.99% daily, -19.57% weekly, and -36.89% monthly.",
-            "contextualized_content": "The PUMP component of the Produce Water Injection Pump C (Tag: P-3410C) is monitored by the Speed (Frequency x 60) model, a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 100.0%, but exhibits significant performance degradation, with residual changes of -2.99% daily, -19.57% weekly, and -36.89% monthly. This indicates a potential issue with the pump's speed or efficiency that requires further investigation and maintenance.\n\nThe PUMP component of Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant is monitored by the model Speed (Frequency x 60), which is a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.6% weekly, and 0.42% monthly. The residual changes are -2.99% daily, -19.57% weekly, and -36.89% monthly."
+            "doc_id": "PLANT_02_PMP_WI_03",
+            "original_uuid": "da2c5143-f007-375f-8a37-8a9951a199bd",
+            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\PMP_WI_03\\PLANT_02_PMP_WI_03_corpus.txt",
+            "chunk_id": "PLANT_02_PMP_WI_03_chunk_5",
+            "chunk_uuid": "c3a00a19-a646-58e8-a358-c56ed52767ea",
+            "original_index": 5,
+            "content": "The MOTOR component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model NDE_VIB(Motor vibration NDE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.15% daily, 0.15% weekly, and 0.15% monthly.",
+            "contextualized_content": "The MOTOR component of the Produce Water Injection Pump C (Tag: PMP_WI_03) is monitored by the NDE_VIB (Motor vibration NDE) condition model, which indicates a consistent 100.0% health score with minimal 0.15% daily, weekly, and monthly changes. This suggests the motor's non-drive end vibration levels are stable and within normal operating parameters, contributing to the overall reliable performance of the Produce Water Injection Pump C.\n\nThe MOTOR component of Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant is monitored by the model NDE_VIB(Motor vibration NDE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.15% daily, 0.15% weekly, and 0.15% monthly."
         }
     },
     {
-        "page_content": "The Produce Water Injection Pump C (Tag: P-3410C) consists of two components: MOTOR and PUMP. The machine is currently in a Non-Critical status, with both Performance Health and Condition Health at 100.0%. The data indicates stable performance and condition across the motor and pump components, suggesting the overall system is functioning as expected.\n\nThe Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant consists of the following components: MOTOR, PUMP",
-        "rrf_score": 0.029631255,
+        "page_content": "The Produce Water Injection Pump C (Tag: PMP_WI_03) consists of two components: MOTOR and PUMP. The machine is currently in a Non-Critical status, with both Performance Health and Condition Health at 100.0%. This indicates the pump is operating within normal parameters and no immediate maintenance is required.\n\nThe Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant consists of the following components: MOTOR, PUMP",
+        "rrf_score": 0.029437229,
         "rank": 7,
         "metadata": {
-            "doc_id": "PLANT_02_P-3410C",
-            "original_uuid": "c5814c84-0de5-3803-bb45-0d0846c43eac",
-            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\P-3410C\\PLANT_02_P-3410C_corpus.txt",
-            "chunk_id": "PLANT_02_P-3410C_chunk_2",
-            "chunk_uuid": "4b29a323-b309-5103-b18d-a62c9e16565b",
+            "doc_id": "PLANT_02_PMP_WI_03",
+            "original_uuid": "da2c5143-f007-375f-8a37-8a9951a199bd",
+            "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\PMP_WI_03\\PLANT_02_PMP_WI_03_corpus.txt",
+            "chunk_id": "PLANT_02_PMP_WI_03_chunk_2",
+            "chunk_uuid": "fa26cd55-c7bb-5055-a0f6-2f0e29d05dfb",
             "original_index": 2,
-            "content": "The Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant consists of the following components: MOTOR, PUMP",
-            "contextualized_content": "The Produce Water Injection Pump C (Tag: P-3410C) consists of two components: MOTOR and PUMP. The machine is currently in a Non-Critical status, with both Performance Health and Condition Health at 100.0%. The data indicates stable performance and condition across the motor and pump components, suggesting the overall system is functioning as expected.\n\nThe Produce Water Injection Pump C (Tag: P-3410C) in the Everflow Utility Plant consists of the following components: MOTOR, PUMP"
+            "content": "The Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant consists of the following components: MOTOR, PUMP",
+            "contextualized_content": "The Produce Water Injection Pump C (Tag: PMP_WI_03) consists of two components: MOTOR and PUMP. The machine is currently in a Non-Critical status, with both Performance Health and Condition Health at 100.0%. This indicates the pump is operating within normal parameters and no immediate maintenance is required.\n\nThe Produce Water Injection Pump C (Tag: PMP_WI_03) in the Everflow Utility Plant consists of the following components: MOTOR, PUMP"
         }
     }
 ]

@@ -11,7 +11,7 @@ from RAG_function.generate.prompts_V4 import (
 from RAG_function.generate.augmented import augmented_generate
 
 # API Setup
-os.environ["ANTHROPIC_API_KEY"] = "Enter your key"
+os.environ["ANTHROPIC_API_KEY"] = ""
 anthropicAi = anthropic.Anthropic(
     api_key=os.getenv("ANTHROPIC_API_KEY"),
 )

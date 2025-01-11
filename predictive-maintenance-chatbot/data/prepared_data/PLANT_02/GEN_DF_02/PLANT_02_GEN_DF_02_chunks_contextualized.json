@@ -1,0 +1,363 @@
+[
+  {
+    "doc_id": "PLANT_02_GEN_DF_02",
+    "original_uuid": "3ec06dc2-8f33-359b-8f2e-01a70ec5f293",
+    "corpus_source": "D:\\Data_sci_internship\\Exploring Generative AI for Predictive Maintenance Applications\\predictive-maintenance-chatbot\\data\\prepared_data\\PLANT_02\\GEN_DF_02\\PLANT_02_GEN_DF_02_corpus.txt",
+    "chunks": [
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_0",
+        "original_index": 0,
+        "content": "The Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is currently RUNNING. The machine consists of 3 components and 56 models.",
+        "contextualized_content": "The Dual Fuel Generator B (Tag: GEN_DF_02) is currently running and consists of 3 components (AC GENERATOR, COOLING SYSTEM, DIESEL ENGINE) and 56 monitoring models. The machine is in a Non-Critical status with a Performance Health of 100.0% and Condition Health of 98.28%, indicating generally stable operation. However, some models show minor daily and weekly health changes, suggesting the need for continued monitoring to identify any emerging issues.\n\nThe Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is currently RUNNING. The machine consists of 3 components and 56 models."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_1",
+        "original_index": 1,
+        "content": "The Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant has a Performance Health of 100.0% and Condition Health of 98.28%. The machine is currently in a Non-Critical status. The Performance changes are 0.0% daily, 0.3% weekly, and 4.71% monthly. The Condition changes are 0.47% daily, 0.21% weekly, and 0.5% monthly.",
+        "contextualized_content": "The Dual Fuel Generator B (Tag: GEN_DF_02) has a Performance Health of 100.0% and Condition Health of 98.28%, indicating generally good overall system health. However, the Condition changes of 0.47% daily, 0.21% weekly, and 0.5% monthly suggest gradual deterioration that should be monitored closely. Maintenance teams should prioritize investigating the root causes of these condition changes to maintain optimal generator performance and reliability.\n\nThe Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant has a Performance Health of 100.0% and Condition Health of 98.28%. The machine is currently in a Non-Critical status. The Performance changes are 0.0% daily, 0.3% weekly, and 4.71% monthly. The Condition changes are 0.47% daily, 0.21% weekly, and 0.5% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_2",
+        "original_index": 2,
+        "content": "The Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant consists of the following components: AC GENERATOR, COOLING SYSTEM, DIESEL ENGINE",
+        "contextualized_content": "The Dual Fuel Generator B consists of three key components: AC Generator, Cooling System, and Diesel Engine. The AC Generator and Cooling System components are operating at 100% health, while the Diesel Engine shows some minor health degradation in specific cylinder temperature models. Overall, the generator is in a non-critical status, but the Diesel Engine requires closer monitoring to identify any emerging issues and plan appropriate maintenance.\n\nThe Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant consists of the following components: AC GENERATOR, COOLING SYSTEM, DIESEL ENGINE"
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_3",
+        "original_index": 3,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Front_Bear_Temp(Generator bearing temperature DE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the Front_Bear_Temp model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the generator bearings are operating within normal parameters and do not require immediate maintenance attention.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Front_Bear_Temp(Generator bearing temperature DE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_4",
+        "original_index": 4,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Rear_Bear_Temp(Generator bearing temperature NDE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the Rear_Bear_Temp model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the generator bearing temperature on the non-drive end is operating within normal parameters, indicating proper cooling system performance and no immediate maintenance concerns for this critical component.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Rear_Bear_Temp(Generator bearing temperature NDE), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_5",
+        "original_index": 5,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model TotalKVAR(Total reactive power), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the TotalKVAR (Total reactive power) model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the AC generator is operating within normal parameters and does not require immediate maintenance attention.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model TotalKVAR(Total reactive power), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_6",
+        "original_index": 6,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model VoltageL1L2(Generator voltage phase A), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the VoltageL1L2 model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the generator's phase A voltage is operating within normal parameters, contributing to the overall stable performance and condition of the AC GENERATOR subsystem.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model VoltageL1L2(Generator voltage phase A), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_7",
+        "original_index": 7,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model VoltageL2L3(Generator voltage phase B), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the VoltageL2L3 model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the generator's phase B voltage is operating within normal parameters, contributing to the overall stable performance and condition of the AC GENERATOR subsystem.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model VoltageL2L3(Generator voltage phase B), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_8",
+        "original_index": 8,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model VoltageL3L1(Generator voltage phase C), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the VoltageL3L1 (Generator voltage phase C) model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the generator's voltage output is stable and within expected parameters, indicating proper AC generator performance and no immediate maintenance concerns.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model VoltageL3L1(Generator voltage phase C), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_9",
+        "original_index": 9,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model PowerFactor(Generator power factor), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the PowerFactor(Generator power factor) model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the generator's power factor is operating within expected parameters, maintaining optimal electrical efficiency and performance.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model PowerFactor(Generator power factor), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_10",
+        "original_index": 10,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model PF_Lagging(Power factor lead/Lag status), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the PF_Lagging model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the power factor lead/lag status of the generator is operating within normal parameters, maintaining optimal electrical efficiency and performance.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model PF_Lagging(Power factor lead/Lag status), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_11",
+        "original_index": 11,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Frequency(Generator frequency ), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the Frequency (Generator frequency) model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the generator's frequency is operating within normal parameters, maintaining optimal performance and reliability for the overall system.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Frequency(Generator frequency ), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_12",
+        "original_index": 12,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model AVG_LN_AC_RMS_Voltage(Average Line -Netural AC Voltage), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the AVG_LN_AC_RMS_Voltage model, which indicates a stable 100.0% health score with no daily, weekly, or monthly changes. This suggests the generator's average line-to-neutral AC voltage is operating within normal parameters, maintaining optimal electrical performance and reliability.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model AVG_LN_AC_RMS_Voltage(Average Line -Netural AC Voltage), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_13",
+        "original_index": 13,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BALANCE_VOLTAGE_PHASE, which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the BALANCE_VOLTAGE_PHASE model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the generator's voltage balance is stable and within expected parameters, maintaining optimal performance.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BALANCE_VOLTAGE_PHASE, which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_14",
+        "original_index": 14,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BALANCE_CURRENT_PHASE, which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the BALANCE_CURRENT_PHASE model, which indicates a 100.0% health score with no notable changes in daily, weekly, or monthly performance. This suggests the AC generator is operating within normal parameters and does not require immediate maintenance attention.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BALANCE_CURRENT_PHASE, which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_15",
+        "original_index": 15,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND2X(Vibration NDE Gen Band 2x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.3% daily, 0.3% weekly, and 0.3% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the BAND2X(Vibration NDE Gen Band 2x) model, which indicates a consistent 100.0% health score with 0.3% daily, weekly, and monthly changes. This suggests the AC GENERATOR is operating within normal parameters and does not require immediate maintenance attention.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND2X(Vibration NDE Gen Band 2x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.3% daily, 0.3% weekly, and 0.3% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_16",
+        "original_index": 16,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND4X(Vibration NDE Gen Band 4x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the BAND4X(Vibration NDE Gen Band 4x) model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the AC GENERATOR is operating within normal parameters and does not require immediate maintenance attention.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND4X(Vibration NDE Gen Band 4x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_17",
+        "original_index": 17,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND2X(Vibration DE Gen Band 2x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.13% daily, 0.13% weekly, and 0.13% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by the BAND2X(Vibration DE Gen Band 2x) model, which indicates a healthy 100.0% condition score with minimal 0.13% daily, weekly, and monthly changes. This suggests the AC generator is operating within normal parameters and does not require immediate maintenance attention.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND2X(Vibration DE Gen Band 2x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.13% daily, 0.13% weekly, and 0.13% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_18",
+        "original_index": 18,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND4X(Vibration DE Gen Band 4x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 74.72%, with health changes recorded at 6.29% daily, 6.29% weekly, and 6.29% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is experiencing a concerning 74.72% health score for the BAND4X(Vibration DE Gen Band 4x) condition model, with significant daily, weekly, and monthly health changes of 6.29%. This indicates elevated vibration levels in the direct-end (DE) generator, which could signify bearing or rotor issues requiring immediate investigation and potential maintenance intervention to prevent further degradation and ensure reliable generator operation.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND4X(Vibration DE Gen Band 4x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 74.72%, with health changes recorded at 6.29% daily, 6.29% weekly, and 6.29% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_19",
+        "original_index": 19,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Generator bearing temperature NDE vs. Vibration NDE Gen overall, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.62% daily, 0.22% weekly, and 0.3% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by a CLASSIFICATION model that tracks the relationship between generator bearing temperature and vibration. This model indicates a 100.0% health score, with daily, weekly, and monthly health changes of 1.62%, 0.22%, and 0.30% respectively. These metrics suggest the AC GENERATOR component is operating within normal parameters and does not require immediate maintenance attention.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Generator bearing temperature NDE vs. Vibration NDE Gen overall, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.62% daily, 0.22% weekly, and 0.3% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_20",
+        "original_index": 20,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Generator bearing temperature DE vs. Vibration DE Gen overall, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.93% daily, 0.38% weekly, and 0.36% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by a CLASSIFICATION model that tracks the relationship between generator bearing temperature and vibration. This model reports a 100.0% health score, with daily, weekly, and monthly health changes of 1.93%, 0.38%, and 0.36% respectively. These metrics indicate the generator bearings are operating within normal parameters and do not require immediate maintenance attention.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Generator bearing temperature DE vs. Vibration DE Gen overall, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.93% daily, 0.38% weekly, and 0.36% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_21",
+        "original_index": 21,
+        "content": "The AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model TotalKW(Generator Load), which is a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 3.48% monthly. The residual changes are -1.9% daily, -4.6% weekly, and -10.22% monthly.",
+        "contextualized_content": "The AC GENERATOR component of the Dual Fuel Generator B is monitored by a PERFORMANCE model that indicates a 3.48% monthly decline in generator load, with residual changes of -1.9% daily, -4.6% weekly, and -10.22% monthly. This suggests a gradual decrease in generator performance that should be closely monitored, as it may require maintenance or adjustments to maintain optimal system functionality.\n\nThe AC GENERATOR component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model TotalKW(Generator Load), which is a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 3.48% monthly. The residual changes are -1.9% daily, -4.6% weekly, and -10.22% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_22",
+        "original_index": 22,
+        "content": "The COOLING SYSTEM component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND2X(Vibration Radiator fan Band 2x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.96% daily, 0.96% weekly, and 0.96% monthly.",
+        "contextualized_content": "The COOLING SYSTEM component of the Dual Fuel Generator B is monitored by the BAND2X(Vibration Radiator fan Band 2x) model, which indicates a 100.0% health score with consistent 0.96% daily, weekly, and monthly changes. This suggests the radiator fan vibration levels are stable and within normal operating parameters, maintaining the cooling system's performance.\n\nThe COOLING SYSTEM component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND2X(Vibration Radiator fan Band 2x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.96% daily, 0.96% weekly, and 0.96% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_23",
+        "original_index": 23,
+        "content": "The COOLING SYSTEM component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND4X(Vibration Radiator fan Band 4x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The COOLING SYSTEM component of the Dual Fuel Generator B is monitored by the BAND4X(Vibration Radiator fan Band 4x) model, which indicates a 100.0% health score with no significant daily, weekly, or monthly changes. This suggests the radiator fan vibration levels are stable and within normal operating parameters, maintaining effective cooling system performance.\n\nThe COOLING SYSTEM component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND4X(Vibration Radiator fan Band 4x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_24",
+        "original_index": 24,
+        "content": "The COOLING SYSTEM component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model VELOCITY(Vibration Radiator fan overall), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.13% daily, 0.13% weekly, and 0.13% monthly.",
+        "contextualized_content": "The COOLING SYSTEM component of the Dual Fuel Generator B is monitored by the VELOCITY(Vibration Radiator fan overall) model, which indicates a 100.0% health score with consistent 0.13% daily, weekly, and monthly changes. This suggests the cooling system is operating within normal parameters and does not require immediate maintenance attention.\n\nThe COOLING SYSTEM component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model VELOCITY(Vibration Radiator fan overall), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.13% daily, 0.13% weekly, and 0.13% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_25",
+        "original_index": 25,
+        "content": "The COOLING SYSTEM component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Coolant temperature_LB vs. Engine Oil temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.09% monthly.",
+        "contextualized_content": "The COOLING SYSTEM component of the Dual Fuel Generator B is monitored by the Coolant temperature_LB vs. Engine Oil temperature model, which indicates a 100.0% health score with negligible monthly changes of 0.09%. This suggests the cooling system is operating within normal parameters and does not require immediate maintenance attention.\n\nThe COOLING SYSTEM component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Coolant temperature_LB vs. Engine Oil temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.09% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_26",
+        "original_index": 26,
+        "content": "The COOLING SYSTEM component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Coolant temperature_RB vs. Engine Oil temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.09% monthly.",
+        "contextualized_content": "The COOLING SYSTEM component of the Dual Fuel Generator B is monitored by the Coolant temperature_RB vs. Engine Oil temperature model, which indicates a 100.0% health score with a 0.09% monthly change. This suggests the cooling system is operating within normal parameters and does not require immediate maintenance attention.\n\nThe COOLING SYSTEM component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Coolant temperature_RB vs. Engine Oil temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.09% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_27",
+        "original_index": 27,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model AVG_ALL_CYLINDER(Max diff avg exhusat temp. of all cylinder), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.59% weekly, and 0.37% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of the Dual Fuel Generator B is monitored by the AVG_ALL_CYLINDER model, which indicates a healthy condition with a 100.0% health score and minimal changes in weekly (0.59%) and monthly (0.37%) performance. This suggests the diesel engine is operating within normal parameters and does not require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model AVG_ALL_CYLINDER(Max diff avg exhusat temp. of all cylinder), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.59% weekly, and 0.37% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_28",
+        "original_index": 28,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Oil_filter_Diff(Engine Oil Filter Pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Oil_filter_Diff (Engine Oil Filter Pressure) model, which indicates a 100.0% health score with no changes in daily, weekly, or monthly performance. This suggests the engine oil filter is functioning normally and not exhibiting any signs of degradation that would impact the overall diesel engine health or performance.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Oil_filter_Diff(Engine Oil Filter Pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_29",
+        "original_index": 29,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Crankcase_Pressure(Crankcase pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The Crankcase_Pressure(Crankcase pressure) model, which monitors the DIESEL ENGINE component of Dual Fuel Generator B, indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the crankcase pressure is stable and within normal operating parameters, which is a positive indicator of the diesel engine's condition and performance.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Crankcase_Pressure(Crankcase pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_30",
+        "original_index": 30,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Air_filter1_Diff(Inlet air restriction), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Air_filter1_Diff (Inlet air restriction) model, which indicates a 100.0% health score with no changes in daily, weekly, or monthly performance. This suggests the diesel engine's air intake system is functioning normally and does not require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Air_filter1_Diff(Inlet air restriction), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_31",
+        "original_index": 31,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Fuel_Pressure(Engine fuel pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.6% daily, 0.6% weekly, and 0.6% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of the Dual Fuel Generator B is monitored by the Fuel_Pressure(Engine fuel pressure) model, which indicates a 100.0% health score with consistent 0.6% daily, weekly, and monthly changes. This suggests the diesel engine's fuel system is operating within normal parameters and does not require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Fuel_Pressure(Engine fuel pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.6% daily, 0.6% weekly, and 0.6% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_32",
+        "original_index": 32,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Fuel_filter_Diff(Engine fuel filter differential Pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 0.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The Fuel_filter_Diff model, which monitors the engine fuel filter differential pressure of the Dual Fuel Generator B, has a critical health score of 0.0% with no changes in daily, weekly, or monthly intervals. This indicates a potential issue with the fuel filter that requires immediate attention, as it could significantly impact the diesel engine's performance and reliability.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Fuel_filter_Diff(Engine fuel filter differential Pressure), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 0.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_33",
+        "original_index": 33,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model OilPressure(Engine oil pressure (Header)), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the OilPressure model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the engine oil pressure is stable and within normal operating parameters, which is a positive indicator of the DIESEL ENGINE's condition and performance.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model OilPressure(Engine oil pressure (Header)), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_34",
+        "original_index": 34,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND2X(Vibration NDE engine Band 2x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 1.88% daily, 1.88% weekly, and 1.88% monthly.",
+        "contextualized_content": "The BAND2X(Vibration NDE engine Band 2x) model, which monitors the DIESEL ENGINE component of Dual Fuel Generator B, has a health score of 100.0% but exhibits consistent daily, weekly, and monthly increases in vibration levels of 1.88%. This indicates potential developing issues with the non-drive end of the diesel engine that should be closely monitored, as elevated vibrations can lead to accelerated component wear and potential failures if not addressed.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND2X(Vibration NDE engine Band 2x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 1.88% daily, 1.88% weekly, and 1.88% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_35",
+        "original_index": 35,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND4X(Vibration NDE engine Band 4x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.1% daily, 0.1% weekly, and 0.1% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the BAND4X(Vibration NDE engine Band 4x) model, which indicates a healthy 100.0% condition score with negligible 0.1% daily, weekly, and monthly changes. This suggests the diesel engine's vibration levels in the non-drive end (NDE) high-frequency band are stable, maintaining optimal performance.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND4X(Vibration NDE engine Band 4x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.1% daily, 0.1% weekly, and 0.1% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_36",
+        "original_index": 36,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND2X(Vibration DE engine Band 2x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the BAND2X(Vibration DE engine Band 2x) model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the diesel engine vibration levels are stable and within normal operating parameters, indicating the diesel engine component is functioning properly and not exhibiting any concerning vibration trends that would require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND2X(Vibration DE engine Band 2x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_37",
+        "original_index": 37,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND4X(Vibration DE engine Band 4x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the BAND4X(Vibration DE engine Band 4x) model, which indicates a 100.0% health score with no daily, weekly, or monthly changes. This suggests the diesel engine vibration levels are stable and within normal operating parameters, indicating the diesel engine component is functioning properly and not exhibiting any concerning vibration-related issues.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model BAND4X(Vibration DE engine Band 4x), which is a CONDITION model of INDIVIDUAL class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.0% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_38",
+        "original_index": 38,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 2 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.19% daily, 0.16% weekly, and 0.38% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 2 LB vs. Intake manifold temperature model, which indicates a 100.0% health score with daily, weekly, and monthly health changes of 1.19%, 0.16%, and 0.38% respectively. These metrics suggest the diesel engine component is operating within normal parameters and does not require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 2 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.19% daily, 0.16% weekly, and 0.38% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_39",
+        "original_index": 39,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 4 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.85% daily, 0.25% weekly, and 0.6% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 4 LB vs. Intake manifold temperature model, which indicates a 100.0% health score with daily, weekly, and monthly health changes of 1.85%, 0.25%, and 0.6% respectively. This suggests the diesel engine is operating within normal parameters, though the daily health change warrants monitoring to ensure continued reliable performance.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 4 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.85% daily, 0.25% weekly, and 0.6% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_40",
+        "original_index": 40,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 6 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.0% daily, 0.14% weekly, and 0.45% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of the Dual Fuel Generator B is monitored by the Cylinder TEMP 6 LB vs. Intake manifold temperature model, which indicates a 100.0% health score with daily, weekly, and monthly health changes of 1.0%, 0.14%, and 0.45% respectively. This suggests the diesel engine component is operating within normal parameters, though the moderate daily and monthly health changes warrant continued monitoring for potential emerging issues.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 6 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.0% daily, 0.14% weekly, and 0.45% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_41",
+        "original_index": 41,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 8 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.92% daily, 0.13% weekly, and 0.61% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 8 LB vs. Intake manifold temperature model, which indicates a 100.0% health score with minor daily (0.92%), weekly (0.13%), and monthly (0.61%) changes. This suggests the diesel engine is operating within normal parameters, though the slight temperature variations warrant continued monitoring to ensure optimal performance and prevent potential issues.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 8 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.92% daily, 0.13% weekly, and 0.61% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_42",
+        "original_index": 42,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 10 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.71% daily, 0.1% weekly, and 0.31% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 10 LB vs. Intake manifold temperature model, which indicates a 100.0% health score with minor daily (0.71%), weekly (0.1%), and monthly (0.31%) changes. This suggests the diesel engine is operating within normal parameters and does not require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 10 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.71% daily, 0.1% weekly, and 0.31% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_43",
+        "original_index": 43,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 12 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.2% daily, 0.03% weekly, and 0.19% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 12 LB vs. Intake manifold temperature model, which indicates a 100.0% health score with minor daily (0.2%), weekly (0.03%), and monthly (0.19%) changes. This suggests the diesel engine component is operating within normal parameters and does not require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 12 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.2% daily, 0.03% weekly, and 0.19% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_44",
+        "original_index": 44,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 14 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.46% daily, 0.22% weekly, and 0.75% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 14 LB vs. Intake manifold temperature model, which indicates a 100.0% health score with daily, weekly, and monthly health changes of 1.46%, 0.22%, and 0.75% respectively. These temperature-related metrics suggest the diesel engine is operating within normal parameters and does not require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 14 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.46% daily, 0.22% weekly, and 0.75% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_45",
+        "original_index": 45,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 16 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 4.19% daily, 0.61% weekly, and 4.67% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 16 LB vs. Intake manifold temperature model, which indicates a 100.0% health score but with significant daily (4.19%) and monthly (4.67%) changes in condition. This suggests potential issues with cylinder temperature regulation that should be investigated further to ensure optimal engine performance and prevent future failures.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 16 LB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 4.19% daily, 0.61% weekly, and 4.67% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_46",
+        "original_index": 46,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 1 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.23% daily, 0.03% weekly, and 0.11% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 1 RB vs. Intake manifold temperature model, which indicates a healthy condition with a 100.0% health score and minimal daily (0.23%), weekly (0.03%), and monthly (0.11%) changes. This suggests the diesel engine is operating within normal parameters and does not require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 1 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.23% daily, 0.03% weekly, and 0.11% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_47",
+        "original_index": 47,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 3 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.13% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 3 RB vs. Intake manifold temperature model, which indicates a healthy condition with a 100.0% health score and minimal monthly changes of 0.13%. This suggests the diesel engine is operating within normal parameters and does not require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 3 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.13% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_48",
+        "original_index": 48,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 5 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 3.45% daily, 1.33% weekly, and 1.34% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 5 RB vs. Intake manifold temperature model, which indicates a 100.0% health score with notable daily (3.45%), weekly (1.33%), and monthly (1.34%) changes. This suggests potential thermal management issues within the diesel engine that should be further investigated and addressed to maintain optimal engine performance and reliability.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 5 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 3.45% daily, 1.33% weekly, and 1.34% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_49",
+        "original_index": 49,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 7 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.76% daily, 0.1% weekly, and 0.68% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 7 RB vs. Intake manifold temperature model, which indicates a 100.0% health score with 0.76% daily, 0.1% weekly, and 0.68% monthly health changes. This suggests the diesel engine component is operating within normal parameters and does not require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 7 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.76% daily, 0.1% weekly, and 0.68% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_50",
+        "original_index": 50,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 9 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.28% daily, 0.18% weekly, and 0.22% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 9 RB vs. Intake manifold temperature model, which indicates a 100.0% health score with daily, weekly, and monthly health changes of 1.28%, 0.18%, and 0.22% respectively. This suggests the diesel engine component is operating within normal parameters, though the daily health change warrants continued monitoring to ensure no emerging issues.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 9 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 1.28% daily, 0.18% weekly, and 0.22% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_51",
+        "original_index": 51,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 11 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 2.33% daily, 0.32% weekly, and 0.52% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 11 RB vs. Intake manifold temperature model, which indicates a 100.0% health score with daily, weekly, and monthly health changes of 2.33%, 0.32%, and 0.52% respectively. This suggests the diesel engine is operating within normal parameters, though the relatively high daily health change warrants continued monitoring to ensure no emerging issues.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 11 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 2.33% daily, 0.32% weekly, and 0.52% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_52",
+        "original_index": 52,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 13 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 92.77%, with health changes recorded at 4.07% daily, -1.09% weekly, and -3.37% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is experiencing a 92.77% health score for the Cylinder TEMP 13 RB vs. Intake manifold temperature model, with notable daily and monthly health declines of 4.07% and -3.37% respectively. This indicates a potential issue with the cylinder temperature or intake manifold performance that should be investigated further to maintain overall diesel engine health and prevent operational disruptions.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 13 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 92.77%, with health changes recorded at 4.07% daily, -1.09% weekly, and -3.37% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_53",
+        "original_index": 53,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 15 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.25% daily, 0.03% weekly, and 0.18% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Cylinder TEMP 15 RB vs. Intake manifold temperature model, which indicates a healthy condition with a 100.0% health score and low daily, weekly, and monthly health changes of 0.25%, 0.03%, and 0.18% respectively. This suggests the diesel engine is operating within normal parameters and does not require immediate maintenance attention.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Cylinder TEMP 15 RB vs. Intake manifold temperature, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.25% daily, 0.03% weekly, and 0.18% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_54",
+        "original_index": 54,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Intake manifold temperature vs. Coolant temperature_LB, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.11% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of the Dual Fuel Generator B is monitored by the Intake manifold temperature vs. Coolant temperature_LB model, which indicates a 100.0% health score with negligible monthly changes of 0.11%. This suggests the diesel engine's cooling system is operating within normal parameters, with no immediate maintenance concerns identified.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Intake manifold temperature vs. Coolant temperature_LB, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.11% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_55",
+        "original_index": 55,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Intake manifold temperature vs. Coolant temperature_RB, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.11% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of Dual Fuel Generator B is monitored by the Intake manifold temperature vs. Coolant temperature_RB model, which indicates a 100.0% health score with negligible 0.0% daily and weekly changes, and a 0.11% monthly change. This suggests the diesel engine's cooling system is operating within normal parameters, with no immediate maintenance concerns identified.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Intake manifold temperature vs. Coolant temperature_RB, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 0.0% daily, 0.0% weekly, and 0.11% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_56",
+        "original_index": 56,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Vibration NDE engine overall vs. average all Cylinder, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 2.56% daily, 0.35% weekly, and 0.51% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of the Dual Fuel Generator B is monitored by a CLASSIFICATION model that tracks the relationship between overall vibration on the non-drive end (NDE) of the engine and the average exhaust temperature of all cylinders. This model currently has a health score of 100.0%, but exhibits daily, weekly, and monthly health changes of 2.56%, 0.35%, and 0.51% respectively, indicating potential performance degradation that should be closely monitored.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Vibration NDE engine overall vs. average all Cylinder, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 2.56% daily, 0.35% weekly, and 0.51% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_57",
+        "original_index": 57,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Vibration DE engine overall vs. average all Cylinder, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 3.85% daily, 0.67% weekly, and 0.76% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of the Dual Fuel Generator B is monitored by a CLASSIFICATION model that tracks the relationship between overall vibration in the drive-end (DE) engine and the average exhaust temperature of all cylinders. This model currently has a health score of 100.0%, but exhibits relatively high daily (3.85%) and monthly (0.76%) changes, indicating potential performance degradation that should be closely monitored.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model Vibration DE engine overall vs. average all Cylinder, which is a CONDITION model of CLASSIFICATION class. This model has a health score of 100.0%, with health changes recorded at 3.85% daily, 0.67% weekly, and 0.76% monthly."
+      },
+      {
+        "chunk_id": "PLANT_02_GEN_DF_02_chunk_58",
+        "original_index": 58,
+        "content": "The DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model AVG_ALL_CYLINDER(Max diff avg exhusat temp. of all cylinder), which is a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 99.99%, with health changes recorded at 4.3% daily, 0.59% weekly, and 0.37% monthly. The residual changes are -6.65% daily, -2.04% weekly, and -5.62% monthly.",
+        "contextualized_content": "The DIESEL ENGINE component of the Dual Fuel Generator B is monitored by a PERFORMANCE model that indicates a 99.99% health score, with daily, weekly, and monthly health changes of 4.3%, 0.59%, and 0.37% respectively. The model also shows residual changes of -6.65% daily, -2.04% weekly, and -5.62% monthly, suggesting potential performance degradation that requires further investigation and maintenance.\n\nThe DIESEL ENGINE component of Dual Fuel Generator B (Tag: GEN_DF_02) in the Everflow Utility Plant is monitored by the model AVG_ALL_CYLINDER(Max diff avg exhusat temp. of all cylinder), which is a PERFORMANCE model of MACHINE_LEARNING class. This model has a health score of 99.99%, with health changes recorded at 4.3% daily, 0.59% weekly, and 0.37% monthly. The residual changes are -6.65% daily, -2.04% weekly, and -5.62% monthly."
+      }
+    ]
+  }
+]

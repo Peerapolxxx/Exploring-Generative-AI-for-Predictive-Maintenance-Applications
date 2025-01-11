@@ -8,7 +8,7 @@ from contextEnrichment_function.prompts import (
 )
 
 os.environ["ANTHROPIC_API_KEY"] = (
-    "Enter your key"
+    ""
 )
 api_key = os.getenv("ANTHROPIC_API_KEY")
 

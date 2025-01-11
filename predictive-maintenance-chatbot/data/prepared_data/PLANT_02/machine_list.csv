@@ -1,7 +1,7 @@
 MACHINE_ID,MACHINE_TAG,MACHINE_NAME,DESCRIPTION
-1,G6710A,Dual Fuel Generator A,
-2,G6710B,Dual Fuel Generator B,
-3,P-3410A,Produce Water Injection Pump A,
-4,P-3410B,Produce Water Injection Pump B,
-5,P-3410C,Produce Water Injection Pump C,
-6,SYSTEM,Water process,
+1,GEN_DF_01,Dual Fuel Generator A,
+2,GEN_DF_02,Dual Fuel Generator B,
+3,PMP_WI_01,Produce Water Injection Pump A,
+4,PMP_WI_02,Produce Water Injection Pump B,
+5,PMP_WI_03,Produce Water Injection Pump C,
+6,SYS_WP_01,Water process,
